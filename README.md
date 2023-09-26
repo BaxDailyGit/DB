@@ -1,1 +1,1 @@
-# https://app.diagrams.ne
+# https://app.diagrams.net
